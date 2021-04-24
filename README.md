@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Özlem Balcı.
-- 👀 I’m a medical doctor and interested in pediatric surgery.
+- 👀 I’m a medical doctor and pediatric surgeon.
 
 <!---
 - 🌱 I’m currently learning ...
